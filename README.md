@@ -15,6 +15,6 @@ _The purpose of this project is to code a small data exchange program using UNIX
 > + Unix
 > + Rigor
 
-For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/minitalk/blob/master/en.subject.pdf).
+For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/minitalk/blob/master/content/en.subject.pdf).
 
 ___
