@@ -21,7 +21,28 @@ ___
 
 ## 🚀 **Description**
 
+### Mandotary part
 
+Minitalk is a communication program in the form of a client and server. Communication between the server and the client is done ONLY using UNIX signals (only two signals - SIGUSR1 and SIGUSR2).
+
+The server must be launched first, and after being launched it must display its PID.
+
+The client will take as parameters:
++ The server PID.
++ The string that should be sent.
+
+```
+ ./client [pid] [message]
+```
+
+If no errors occured, then the server simply prints a message from the client.
+
+Server should be able to receive strings from several clients in a row, without needing to be restarted. It is implemented using **sigaction** (as far as i remember).
+
+### Bonus part
+
++ The server confirms every signal received by sending a signal to the client.
++ Support Unicode characters
 
 ___
 
