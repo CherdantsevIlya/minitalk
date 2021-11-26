@@ -25,6 +25,11 @@ ___
 
 ___
 
+## 🧮 **How it works?**
+
+![GIF](https://github.com/CherdantsevIlya/minitalk/blob/master/content/minitalk.gif)
+___
+
 ## 📌 **Useful links**
 
 + [Передача файла сигналами](https://habr.com/ru/post/122823/)
