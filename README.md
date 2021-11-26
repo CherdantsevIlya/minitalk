@@ -27,6 +27,11 @@ Minitalk is a communication program in the form of a client and server. Communic
 
 The server must be launched first, and after being launched it must display its PID.
 
+```c
+ ./server
+ pid: 4476 (e.g.)
+```
+
 The client will take as parameters:
 + The server PID.
 + The string that should be sent.
