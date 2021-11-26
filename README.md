@@ -18,3 +18,15 @@ _The purpose of this project is to code a small data exchange program using UNIX
 For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/minitalk/blob/master/content/en.subject.pdf).
 
 ___
+
+## 🚀 **Description**
+
+
+
+___
+
+## 📌 **Useful links**
+
++ [Передача файла сигналами](https://habr.com/ru/post/122823/)
++ [Перехват сигналов: sigaction()](https://it.wikireading.ru/1055)
++ [Short introduction to signals in C](https://www.youtube.com/watch?v=5We_HtLlAbs&list=PLfqABt5AS4FkW5mOn2Tn9ZZLLDwA3kZUY&index=17) 
