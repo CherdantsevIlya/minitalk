@@ -4,21 +4,6 @@
 
 ___
 
-## :memo: **About**
-
-_The purpose of this project is to code a small data exchange program using UNIX signals. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus._
-
-### *Objectives*  
-> + Unix logic
-
-### *Skills*
-> + Unix
-> + Rigor
-
-For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/minitalk/blob/master/content/en.subject.pdf).
-
-___
-
 ## 🚀 **Description**
 
 ### Mandotary part
@@ -48,6 +33,8 @@ Server should be able to receive strings from several clients in a row, without 
 
 + The server confirms every signal received by sending a signal to the client.
 + Support Unicode characters
+
+###### *For detailed information, refer to the [**subject of this project**](https://github.com/CherdantsevIlya/minitalk/blob/master/content/en.subject.pdf).*
 
 ___
 
